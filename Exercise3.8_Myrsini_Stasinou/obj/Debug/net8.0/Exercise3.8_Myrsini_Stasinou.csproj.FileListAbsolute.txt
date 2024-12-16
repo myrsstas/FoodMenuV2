@@ -1,0 +1,14 @@
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\bin\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.exe
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\bin\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.deps.json
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\bin\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.runtimeconfig.json
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\bin\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.dll
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\bin\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.pdb
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.AssemblyInfoInputs.cache
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.AssemblyInfo.cs
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.csproj.CoreCompileInputs.cache
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.dll
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\refint\Exercise3.8_Myrsini_Stasinou.dll
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.pdb
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\Exercise3.8_Myrsini_Stasinou.genruntimeconfig.cache
+C:\Users\myrsi\RiderProjects\Exercise3.8_Myrsini_Stasinou\Exercise3.8_Myrsini_Stasinou\obj\Debug\net8.0\ref\Exercise3.8_Myrsini_Stasinou.dll
